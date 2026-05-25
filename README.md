@@ -11,17 +11,18 @@ Actualmente exploro cómo las herramientas impulsadas por IA y el desarrollo web
 
 ### 🛠️ Herramientas y Tecnologías
 
-*   **Economía y Análisis:** Modelos Macroeconómicos, Organización Industrial, Teoría del Crecimiento.
+*   **Economía y Análisis:** Modelos Macroeconómicos y econométricos, Teoría del Crecimiento, Análisis de datos.
 *   **Desarrollo y Despliegue Web:** Herramientas asistidas por IA, Netlify Drop.
 *   **Gestión:** Planificación de proyectos, resolución de desafíos administrativos.
+*   **Herramientas:** Excel, Power BI, Python, SQL.
 
 ### 🌱 Qué estoy aprendiendo
 *   Constantemente buscando nuevas formas de integrar herramientas de inteligencia artificial para agilizar el desarrollo web y el análisis económico. 
 *   **Visualización de datos:** Enfocada en transformar conjuntos de datos individuales aislados en una visión global clara y comprensible. El objetivo es extraer patrones clave que faciliten la toma de decisiones estratégicas e informadas. 
 
 ### 📫 Cómo contactarme
-*   **LinkedIn:** [(https://www.linkedin.com/in/camilabehar1996/)]
-*   **Email:** [camila.behar.l@gmail.com]
+*   **LinkedIn:** https://www.linkedin.com/in/camilabehar1996/
+*   **Email:** camila.behar.l@gmail.com
 
 ---
 ⭐️ *De la economía a la implementación práctica: transformando ideas analíticas en proyectos tangibles.*
