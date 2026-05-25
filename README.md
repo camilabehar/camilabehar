@@ -7,7 +7,6 @@ Actualmente exploro cómo las herramientas impulsadas por IA y el desarrollo web
 
 ### 🚀 Mis Proyectos Actuales
 
-*   **Puente UBA:** Desarrollo integral de una plataforma y servicio de asesoría para facilitar los procesos administrativos y la inserción de estudiantes internacionales en el sistema universitario argentino.
 *   **Prime Math:** Fundadora de un emprendimiento educativo enfocado en tutorías de matemáticas, gestionando desde la enseñanza hasta la identidad de marca.
 
 ### 🛠️ Herramientas y Tecnologías
